@@ -1,0 +1,67 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 20vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(20px + 2vmin);
+  color: white;
+}
+
+.App-body {
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+  font-size: calc(10px + 2vmin);
+  color: black;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+
+.fault-failure {
+    color:red;
+}
+
+.fault-success {
+    color:green;
+}
+
+#validationList {
+    text-align: left;
+}
+
+#validationList ul {
+    list-style: none;
+    text-align: left;
+}
+
+#validationList li {
+   display: inline;
+   padding: 10px;
+   text-align: left;
+}
+
+.leftAlignment {
+    text-align: left;
+}
+
+.leftAlignmentlist {
+    text-align: left;
+    font-size: 15px;
+}
+
+.leftAlignmentlisheader {
+    text-align: left;
+    font-size: 18px;
+}
